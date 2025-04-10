@@ -3,3 +3,4 @@ assets/*.psd
 assets/*.png
 assets/*.jpg
 assets/*.tig
+venv/
